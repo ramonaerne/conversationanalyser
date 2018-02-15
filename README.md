@@ -1,5 +1,5 @@
 # conversationanalyser
-Analyse Whatsapp conversations. An idea by [u/bartlovepuch](www.reddit.com/u/bartlovepuch) on reddit with the [post](https://www.reddit.com/r/dataisbeautiful/comments/7xicua/my_girlfriend_made_a_visualization_of_all/) in r/dataisbeautiful.
+Analyse Whatsapp conversations. An idea by [u/bartlovepuch](https://www.reddit.com/u/bartlovepuch) on reddit with the [post](https://www.reddit.com/r/dataisbeautiful/comments/7xicua/my_girlfriend_made_a_visualization_of_all/) in r/dataisbeautiful.
 
 ### How to use
 1. On android export desired chat on whatsapp and send to computer. Select to ommit media content
